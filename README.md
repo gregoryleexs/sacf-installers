@@ -3,7 +3,7 @@ Some useful BASH scripts for installation of required packages for Ngee Ann Poly
 
 The aim of me creating this is so that you will need to worry less about the packages to install manually, hence saving you time. This will be of great use let's say when you need to set the software up on different servers or computers.
 
-These scripts are ONLY COMPATIBLE WITH FEDORA OR ENTERPRISE LINUX-BASED DISTROS.
+These scripts are ONLY COMPATIBLE WITH NEWER FEDORA OR ENTERPRISE LINUX-BASED DISTROS (for example, RHEL 8 or later, CentOS/Stream 8 or later, Fedora 22 or later, Amazon Linux 2023 or later). For Amazon Linux 2023 systems, I have made another version of the scripts that will run on these systems. These scripts' names end with 'amzn'.
 
 These must NOT be used for the purposes of cheating during exams or lab tests. If you attempt to cheat using the scripts in this repo, you will be held 100% liable for the cheating offence. If you are using the files in this repo for live project demonstrations, please give attribution.
 
