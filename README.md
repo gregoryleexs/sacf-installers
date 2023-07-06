@@ -12,3 +12,9 @@ installwebserver.sh installs the Apache web server software, MariaDB MySQL datab
 installwp.sh downloads and copies the latest version of WordPress for servers to your Apache directory. Before running this, you need to ensure that you have created the WordPress database as well as a WordPress user in MariaDB.
 
 As the module progresses, I will create more scripts. However if there are any bugs, you may feel free to report them here.
+
+# INSTRUCTIONS
+Use the following commands to download the script to your wrking directory.
+installwebserver: wget -y https://github.com/gregoryleexs/sacf-installers/blob/0efec459f2d1db68a25735f40922ea5c2b294792/installwebserver.sh
+installwebserveramzn: wget -y https://github.com/gregoryleexs/sacf-installers/blob/0efec459f2d1db68a25735f40922ea5c2b294792/installwebserveramzn.sh
+installwp: wget -y https://github.com/gregoryleexs/sacf-installers/blob/0efec459f2d1db68a25735f40922ea5c2b294792/installwp.sh
