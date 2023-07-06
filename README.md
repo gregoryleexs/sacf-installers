@@ -15,6 +15,6 @@ As the module progresses, I will create more scripts. However if there are any b
 
 # INSTRUCTIONS
 Use the following commands to download the script to your wrking directory.
-installwebserver: wget -y https://github.com/gregoryleexs/sacf-installers/blob/0efec459f2d1db68a25735f40922ea5c2b294792/installwebserver.sh -O installwebserver.sh
-installwebserveramzn: wget -y https://github.com/gregoryleexs/sacf-installers/blob/0efec459f2d1db68a25735f40922ea5c2b294792/installwebserveramzn.sh -O installwebserveramzn.sh
-installwp: wget -y https://github.com/gregoryleexs/sacf-installers/blob/0efec459f2d1db68a25735f40922ea5c2b294792/installwp.sh -O installwp.sh
+installwebserver: wget https://github.com/gregoryleexs/sacf-installers/blob/0efec459f2d1db68a25735f40922ea5c2b294792/installwebserver.sh -O installwebserver.sh
+installwebserveramzn: wget https://github.com/gregoryleexs/sacf-installers/blob/0efec459f2d1db68a25735f40922ea5c2b294792/installwebserveramzn.sh -O installwebserveramzn.sh
+installwp: wget https://github.com/gregoryleexs/sacf-installers/blob/0efec459f2d1db68a25735f40922ea5c2b294792/installwp.sh -O installwp.sh
