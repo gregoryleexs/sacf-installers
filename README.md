@@ -13,6 +13,9 @@ installwp.sh downloads and copies the latest version of WordPress for servers to
 
 As the module progresses, I will create more scripts. However if there are any bugs, you may feel free to report them here.
 
+# STABILITY STATUS
+Tested on RHEL AMI
+
 # INSTRUCTIONS
 Use the following commands to download the script to your working directory.
 
