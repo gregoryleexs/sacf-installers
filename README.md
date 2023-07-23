@@ -21,7 +21,7 @@ To learn how to use these scripts on your EC2 instances, please view the video h
 https://drive.google.com/file/d/1sF_hmn7kGJUhF8eAU8kPN3DjLJDHUtlc/view?usp=sharing
 
 # INSTRUCTIONS
-Use the following commands to download the script to your working directory.
+Use the following commands to download the script to your working directory. Ensure wget is installed to download the scripts.
 
 installwebserver: wget https://raw.githubusercontent.com/gregoryleexs/sacf-installers/main/installwebserver.sh -O installwebserver.sh
 
