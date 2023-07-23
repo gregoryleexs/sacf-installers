@@ -34,4 +34,5 @@ The below steps are useful if you are spinning up a new EC2 instance and would l
 **Copy and paste the contents of one of the following bash scripts, located in the 'user data scripts for EC2' folder, into the user data field when creating your instance:**
 - downloadsacfscript.sh: downloads installwebserver.sh and installwp.sh to your home directory.
 - downloadsacfscriptamzn.sh: For AL2023: downloads installwebserveramzn.sh and installwp.sh to your home directory.
+
 The scripts will be downloaded to your / directory, not your home directory. Remember to 'cd /' and then run the scripts from there.
