@@ -15,6 +15,7 @@ As the module progresses, I will create more scripts. However if there are any b
 
 # STABILITY STATUS
 Tested on RHEL AMI
+
 Tested on AL2023 AMI (need to run installwp as sudo or root)
 
 # VIDEO GUIDE
