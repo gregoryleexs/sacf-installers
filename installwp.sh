@@ -5,6 +5,7 @@ echo "The purpose of this script is to make it easier for you to install the req
 echo "You must NOT use it for purposes of cheating in tests/lab tests."
 echo " "
 echo "To proceed, please make sure that you have HTTPD installed. To set up WordPress, you need a MySQL server installed and configured with wordpress database and wordpress user."
+echo "Furthermore, this script MUST be run as root or with sudo."
 
 while true; do
 
