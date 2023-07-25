@@ -15,12 +15,15 @@ As the module progresses, I will create more scripts. However if there are any b
 
 # STABILITY STATUS
 Tested on RHEL AMI
+Tested on AL2023 AMI (need to run installwp as sudo or root)
 
 # VIDEO GUIDE
 To learn how to use these scripts on your EC2 instances, please view the video here...
 https://drive.google.com/file/d/1sF_hmn7kGJUhF8eAU8kPN3DjLJDHUtlc/view?usp=sharing
 
 # INSTRUCTIONS
+It is HIGHLY RECOMMENDED you run these scripts as ROOT!
+
 Use the following commands to download the script to your working directory. Ensure wget is installed to download the scripts.
 
 installwebserver: wget https://raw.githubusercontent.com/gregoryleexs/sacf-installers/main/installwebserver.sh -O installwebserver.sh
