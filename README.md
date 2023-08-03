@@ -36,7 +36,7 @@ installwp: wget https://raw.githubusercontent.com/gregoryleexs/sacf-installers/m
 # ALTERNATIVELY,
 The below steps are useful if you are spinning up a new EC2 instance and would like to have these scripts available the first time you log in to the instance.
 **Copy and paste the contents of one of the following bash scripts, located in the 'user data scripts for EC2' folder, into the user data field when creating your instance:**
-- downloadsacfscript.sh: downloads installwebserver.sh and installwp.sh to your home directory.
-- downloadsacfscriptamzn.sh: For AL2023: downloads installwebserveramzn.sh and installwp.sh to your home directory.
+- downloadsacfscript.sh: downloads installwebserver.sh and installwp.sh to your root directory.
+- downloadsacfscriptamzn.sh: For AL2023: downloads installwebserveramzn.sh and installwp.sh to your root directory.
 
-The scripts will be downloaded to your / directory, not your home directory. Remember to 'cd /' and then run the scripts from there.
+The scripts will be downloaded to your root (/) directory, not your home directory. Remember to 'cd /' and then run the scripts from there.
